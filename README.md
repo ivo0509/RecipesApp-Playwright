@@ -4,7 +4,7 @@ This repository contains automated UI tests for an Recipes website using **Playw
 The goal of the project is to demonstrate proficiency in test automation, following best practices such as  clear test organization.
 
 ## 📌 Features
-- Automated **UI tests** for register, login, logout, navigation, CRUD (Create, Read, Update, Delete) operations, 2
+- Automated **UI tests** for register, login, logout, navigation, CRUD (Create, Read, Update, Delete) operations
 - Cross-browser testing with Chromium
 
 ## 🛠️ Technologies & Tools
